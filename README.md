@@ -1,2 +1,2 @@
 # Repository for Work
-# In use with VersaStudio Software
+In use with VersaStudio Software
